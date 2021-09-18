@@ -1,6 +1,6 @@
-### Hi there 🌱 I’m currently learning pas2JS, I will be posting videos and code soon.
+### Hi there I’m currently learning pas2JS. I have created some code and video - check then out
 
-[Pas2js Hello World](https://github.com/RetroNick2020/Channel-Code/discussions/2)
+[Pas2js Hello World](https://github.com/RetroNick2020/Channel-Code/discussions)
 
 <!--
 **RetroNick2020/RetroNick2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
