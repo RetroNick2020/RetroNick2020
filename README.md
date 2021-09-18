@@ -1,6 +1,6 @@
 ### Hi there I’m currently learning pas2JS. I have created some code and videos - check them out
 
-[Pas2JS Tutotials](https://github.com/RetroNick2020/Channel-Code/discussions)
+[Pas2JS Tutorials](https://github.com/RetroNick2020/Channel-Code/discussions)
 
 [Pas2JS Reversi](https://github.com/RetroNick2020/qbasic-reversi-port-to-pas2js)
 
