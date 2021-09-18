@@ -1,4 +1,4 @@
-### Hi there I’m currently learning pas2JS. I have created some code and video - check then out
+### Hi there I’m currently learning pas2JS. I have created some code and videos - check them out
 
 [Pas2JS Tutotials](https://github.com/RetroNick2020/Channel-Code/discussions)
 
