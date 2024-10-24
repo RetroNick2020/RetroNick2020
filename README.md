@@ -1,4 +1,4 @@
-### Hi there I’m currently working on my Windows 10/11 Sprite/Map editor. If you are a classic DOS/Amiga programmer coding in basic, c, or pascal check it out, it is one of the pinned projects below. I have also started learning PAS2JS, here are some code and videos - check them out
+### Hi there I’m currently working on my Windows 7/8/10/11 Sprite/Map editor. If you are a classic DOS/Amiga programmer coding in basic, c, or pascal check it out, it is one of the pinned projects below. I have also started learning PAS2JS, here are some code and videos - check them out
 
 [Pas2JS Tutorials](https://github.com/RetroNick2020/Channel-Code/discussions)
 
